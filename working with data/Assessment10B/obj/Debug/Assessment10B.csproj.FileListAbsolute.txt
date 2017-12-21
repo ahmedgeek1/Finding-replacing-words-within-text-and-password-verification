@@ -1,0 +1,9 @@
+H:\Assessment10B\Assessment10B\bin\Debug\Assessment10B.exe.config
+H:\Assessment10B\Assessment10B\bin\Debug\Assessment10B.exe
+H:\Assessment10B\Assessment10B\bin\Debug\Assessment10B.pdb
+H:\Assessment10B\Assessment10B\obj\Debug\Assessment10B.csprojResolveAssemblyReference.cache
+H:\Assessment10B\Assessment10B\obj\Debug\Assessment10B.Properties.Resources.resources
+H:\Assessment10B\Assessment10B\obj\Debug\Assessment10B.csproj.GenerateResource.Cache
+H:\Assessment10B\Assessment10B\obj\Debug\Assessment10B.exe
+H:\Assessment10B\Assessment10B\obj\Debug\Assessment10B.pdb
+H:\Assessment10B\Assessment10B\obj\Debug\Assessment10B.WorkingWithDataIIForm.resources
